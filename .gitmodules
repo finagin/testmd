@@ -1,0 +1,3 @@
+[submodule "dist"]
+	path = dist
+	url = git@gist.github.com:8c6a3eea3272d9d81add1b6b51d27eeb.git

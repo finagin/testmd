@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "doctoc": "node_modules/.bin/doctoc dist/commands.md --github"
+  },
+  "devDependencies": {
+    "doctoc": "^1.4.0"
+  }
+}
